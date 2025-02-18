@@ -150,8 +150,3 @@ function limpiarImagen() {
       (_0x9ed43a[_0x2c65a3(0x121)][_0x2c65a3(0x12c)] = _0x2c65a3(0x127))
   );
 }
-//Cosas anadidas para el nuevo commit checando el comando diff
-
-//asdasdasd
-
-//s
